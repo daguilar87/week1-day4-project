@@ -1,0 +1,106 @@
+.card2 {
+    float: right;
+    margin-top: 80px;
+    margin-right: 260px;
+}
+
+.card {
+    float: left;
+    margin-left: 120px;
+    margin-top: 80px;
+    border: none;
+}
+
+.Sign-up {
+    margin-left: 80px;
+    font-weight: 700;
+    margin-bottom: 50px;
+
+}
+
+.email1 {
+    background: url("../images/page1/id.png") no-repeat;
+    padding-left: 45px;
+    background-size: 20px 20px;
+    border-radius: 40px;
+    background-position: 15px;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.email2 {
+    background: url(../images/page1/email.jpeg) no-repeat;
+    padding-left: 45px;
+    background-size: 25px 25px;
+    border-radius: 40px;
+    background-position: 15px;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.password {
+    background: url("../images/page1/lock.png") no-repeat;
+    padding-left: 45px;
+    background-size: 20px 20px;
+    border-radius: 40px;
+    background-position: 15px;
+    height: 60px;
+    margin-bottom: 40px;
+}
+
+.sign {
+    margin-left: 100px;
+    width: 50%;
+    height: 50px;
+    border-radius: 50px;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.or {
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: medium;
+    font-weight: 700;
+
+}
+
+
+.f {
+    height: 35px;
+}
+
+.social {
+    margin: 20px;
+}
+
+.bird {
+    height: 30px;
+}
+
+.flexbox {
+    display: flex;
+    flex-drection: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.g {
+    height: 30px;
+}
+
+.in {
+    height: 25px
+}
