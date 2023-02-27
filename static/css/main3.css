@@ -1,0 +1,232 @@
+nav{
+    display:contents;
+    color: black;
+    text-align: center;
+}
+
+nav ul{
+    background-color: white;
+    list-style-type: none;
+    width: 100%;
+    margin: 0px;
+    padding: 20px;
+}
+
+nav li{
+    display: inline-block;
+    margin: 20px;
+}
+
+.subscription{
+    color: grey;
+}
+
+#header {
+    top: 0;
+    position: fixed;
+    left:0;
+    max-width: 500px;
+    height: 50px;
+}
+
+.button1{
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: bold;
+    float: right;
+}
+
+.button2{
+    border-radius: 12px;
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: bold;
+    float: right;
+}
+
+.Double{
+    text-decoration: none;
+    color: grey;
+    font-weight: bolder;
+}
+
+.sign-in{
+    text-decoration: none;
+    color: grey;
+    font-weight: bolder;
+
+}
+
+h3{
+    font-size:large;
+    font-weight: bold;
+    text-shadow:0cap;
+    color:grey
+}
+
+
+.button3{
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: bold;
+}
+
+.button4{
+    border-radius: 12px;
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: bold;
+}
+
+.middle{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+/* Link Color */
+
+a:link {
+    color: black;
+    text-decoration: none;
+    background-color: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+    background-color: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+    background-color: none;
+}
+
+a:active {
+     color: black;
+     text-decoration: none;
+     background-color: none;
+}
+
+/* Link Color */
+
+
+.flexbox-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    border-width: 4px;
+    border-color: black;
+}
+.flexbox-item{
+    width: 150;
+}
+
+.flexbox-container-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+}
+
+.flexbox-container-3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20%;
+    border-width: 4px;
+    border-color: grey;
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    padding: 10%;
+}
+
+
+.flexbox-container-5{
+    background-color: blue;
+    text-align: center;
+    padding: 150px;
+    border-width: 100px;
+    color: white
+}
+
+.footerh2{
+    font-size: larger;
+}
+.button5{
+    border-radius: 12px;
+    background-color: limegreen;
+    color:white;
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: bold;
+}
+
+.button6{
+    border-radius: 12px;
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: bold;
+}
+
+.side-by-side{
+    width: 100%;
+}
+
+.side-by-side li{
+    display: inline;
+}
+
+.bottom{
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+}
+
+.text-box{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 15%;
+    border-radius: 12px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
